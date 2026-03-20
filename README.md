@@ -98,21 +98,14 @@ Cross-paradigm F1 differences span only **0.0007**, demonstrating that domain-aw
 
 ## Setup & Usage
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/nlp-iot-ids.git
-cd nlp-iot-ids
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 pip install pandas numpy scikit-learn xgboost tensorflow torch transformers \
             datasets accelerate imbalanced-learn matplotlib seaborn jupyter
 ```
 
-### 3. Run notebooks in order
+### 2. Run notebooks in order
 
 ```
 1. EDA.ipynb                  # Understand the dataset
