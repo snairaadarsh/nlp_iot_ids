@@ -1,7 +1,5 @@
 # NLP-Driven IoT Intrusion Detection: A Comprehensive Comparative Study of Machine Learning, Deep Learning, and Transformer Models
 
-**NLP-Driven Intrusion Detection for IoT Networks**  
-A comparative study of Machine Learning, Deep Learning, and Transformer models applied to the TON_IoT dataset using structured text serialization.
 
 ---
 
